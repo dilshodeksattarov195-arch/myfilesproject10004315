@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersrocess",
+        "uuid": 36755170,
+        "checksum": "dtvem"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
